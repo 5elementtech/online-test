@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    margin: 0 auto;width: 990px; height:auto;border: #545454 1px solid;overflow: hidden;
+}
+.bodycontainer{
+    width: 990px; height: auto;overflow: hidden;
+}
+.header{
+    width: 990px; 
+}
+.contentcontainer{
+    width: 990px; 
+}
+.user_input{
+    width: 150px; 
+}
+.e_button{
+    width: 120px; 
+}
+.question_dtl{
+    width: 730px; 
+}
+a{
+    text-decoration: none;
+}
+.mcstyle{
+    font-family: 'Lucida Grande',Helvetica,Arial,Verdana,sans-serif; font-size: 0.9em; color: #535353!important;
+}
